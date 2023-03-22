@@ -6,7 +6,8 @@ web crawler + Sensitive Information Identification
 * [x] Web Crawler<br/>
 * [x] ID Card, phone, <br/>
 * [x] Web Directory Brute<br/>
-* [] Custom brute dictionary (todo) <br/>
+* [x] Custom brute dictionary (todo) <br/>
+* [x]Recursive directory blasting (todo) <br/>
 
 ## Examples
 URL Input
