@@ -38,5 +38,11 @@ Enable Brute
 vela -t http://example.com -b
 ```
 
+Proxy
+```
+vela -t http://example.com -proxy http://127.0.0.1:1082
+vela -t http://example.com -proxy socks5://127.0.0.1:1081
+```
+
 ## Download
 <a href="https://github.com/zan8in/vela_public/releases">Release</a>
